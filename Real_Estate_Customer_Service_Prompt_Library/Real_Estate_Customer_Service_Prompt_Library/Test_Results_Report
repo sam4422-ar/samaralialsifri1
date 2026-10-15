@@ -1,0 +1,52 @@
+# Test Results Report
+
+## Summary Page
+
+**Project:** Real Estate Customer Service Prompt Library  
+**Business:** Dar AlSakan Realty — Fictional  
+**Location:** Riyadh, Saudi Arabia  
+**Version:** v1  
+**Date:** 2026-10-15
+
+### Templates Tested
+1. CS-Reply-Inquiry
+2. CS-Reply-Complaint
+3. CS-Classify-Request
+4. CS-Privacy-Mask
+5. CS-Escalate-Issue
+
+### Evaluation Rubrics
+- Prompt Quality: /5
+- Template Quality: /6
+- Output Quality: /5
+
+Scores must be assigned only after reviewing the relevant criteria and evidence.
+
+---
+
+## Template Test Page — [TEMPLATE NAME]
+
+### Purpose
+[Describe the template's purpose.]
+
+### Test Cases
+- Test 1: [Input scenario and result]
+- Test 2: [Input scenario and result]
+- Test 3: [Input scenario and result]
+
+### Scores
+- Prompt Quality: [score]/5
+- Template Quality: [score]/6
+- Output Quality: [score]/5
+
+### Issues Identified
+[Record any errors or limitations. Write "None identified" only if verified.]
+
+### Fixes Applied
+[Describe improvements or write "None" if no fixes were made.]
+
+### Evidence
+Insert the screenshot for this template and label it clearly.
+
+### Approval Status
+[Approved / Needs revision — based on the completed rubric review.]
